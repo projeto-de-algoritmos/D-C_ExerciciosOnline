@@ -1,6 +1,6 @@
 # Exercicios Online
 
-**Número da Lista**: 
+**Número da Lista**: 26<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
