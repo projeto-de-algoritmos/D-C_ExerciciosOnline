@@ -13,7 +13,8 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![](./Assets/envio.png)
+![](./Assets/envioMediana.png)
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
