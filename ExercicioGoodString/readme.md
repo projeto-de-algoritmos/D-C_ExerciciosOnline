@@ -9,5 +9,5 @@ Link da questão: https://codeforces.com/contest/1385/problem/D
 
 ## Explicação do codigo
 
-A explicação pode ser encontrada clicando [Aqui!]()  
+A explicação pode ser encontrada clicando [Aqui!](https://youtu.be/uSyITHSdaB4)  
 O vídeo também pode ser encontrado na pasta "Assets" do repositório!
