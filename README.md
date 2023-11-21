@@ -10,23 +10,25 @@
 | 18/0022512  |  Lucas de Lima Spinosa dos Santos |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+Neste repositório estão 3 questões de juízes online sobre o conteúdo de Dividir & Conquistar. O código fonte das questões se encontram nas pastas.
 
 ## Screenshots
-![](./Assets/envio.png)
-![](./Assets/envioMediana.png)
+![](./Assets/Contest/envio.png)
+![](./Assets/Mediana/envioMediana.png)
+![](./Assets/GoodString/AcceptedGoodString.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para rodar o código fonte, use o compilador GCC, gerando um arquivo executável a partir do código fonte, conforme o exemplo fictício abaixo.
 
+    gcc -o arquivoExecutavel.exe arquivoCodigoFonte.c
 
+    ./arquivoExecutavel.exe
 
+Caso queira carregar casos de teste presentes em um arquivo .txt, execute o arquivo de saída da compilação passando o .txt como entrada:
 
+    ./arquivoExecutavel.exe < testes.txt 
